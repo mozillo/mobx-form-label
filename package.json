@@ -1,0 +1,20 @@
+{
+  "name": "mobx-form-label",
+  "version": "1.0.6",
+  "description": "mobx form label",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobx",
+    "form",
+    "label"
+  ],
+  "dependencies": {
+    "easy-camelcase": "^1.0.3"
+  },
+  "author": "mot evans",
+  "license": "ISC"
+}
+
